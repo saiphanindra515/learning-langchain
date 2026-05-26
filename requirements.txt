@@ -7,3 +7,5 @@ bs4
 arxiv<4.0
 pymupdf
 wikipedia
+langchain-text-splitters
+langchain-openai

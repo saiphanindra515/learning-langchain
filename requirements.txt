@@ -1,7 +1,7 @@
 langchain
 python-dotenv
 ipykernel
-langchain_community
+langchain-community
 pypdf
 bs4
 arxiv<4.0
@@ -9,3 +9,8 @@ pymupdf
 wikipedia
 langchain-text-splitters
 langchain-openai
+chromadb
+sentence-transformers
+langchain-huggingface
+faiss-cpu
+langchain-chroma
